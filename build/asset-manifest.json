@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ec0e5f8.css",
+    "main.js": "/static/js/main.b555a3b6.js",
+    "static/js/453.1b5d5d04.chunk.js": "/static/js/453.1b5d5d04.chunk.js",
+    "static/media/FamilyImage.png": "/static/media/FamilyImage.a600242f1c8048027ed1.png",
+    "static/media/DiseasesBig.png": "/static/media/DiseasesBig.6c58fc503eb831aa8c78.png",
+    "static/media/Diseases.png": "/static/media/Diseases.8eafc0e3a34b43b7a8c6.png",
+    "static/media/DoctorPic.png": "/static/media/DoctorPic.f0b5d3eef0512de1af73.png",
+    "static/media/logo.png": "/static/media/logo.a609da63155460517608.png",
+    "static/media/HealthLogo.png": "/static/media/HealthLogo.4ab1ef5874b4f8a30a58.png",
+    "static/media/clockIcon.png": "/static/media/clockIcon.4c5fc9eca2f11f9b2813.png",
+    "static/media/nabhlogo.png": "/static/media/nabhlogo.ebd4570b5a83c54c0e89.png",
+    "static/media/InstagramIcon.jpeg": "/static/media/InstagramIcon.9937e92897870897db6d.jpeg",
+    "index.html": "/index.html",
+    "main.1ec0e5f8.css.map": "/static/css/main.1ec0e5f8.css.map",
+    "main.b555a3b6.js.map": "/static/js/main.b555a3b6.js.map",
+    "453.1b5d5d04.chunk.js.map": "/static/js/453.1b5d5d04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec0e5f8.css",
+    "static/js/main.b555a3b6.js"
+  ]
+}
